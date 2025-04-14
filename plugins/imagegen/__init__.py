@@ -1,0 +1,1 @@
+from .imagegen_plugin import ImageGenPlugin
